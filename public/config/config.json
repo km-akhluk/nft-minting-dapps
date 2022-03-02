@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3E795d5282480ce095ea27b61AE736B1bd95964a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x0a082aae9abd085636f254ef84d467108891526e",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "AkhuBro NFT",
+  "SYMBOL": "ABNFT",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 305000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/akhubro-nft",
+  "SHOW_BACKGROUND": true
+}
